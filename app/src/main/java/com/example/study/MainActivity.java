@@ -29,5 +29,7 @@ public class MainActivity extends AppCompatActivity {
         // branch thinh da co claa quanngot
 
         //them moi cho cu hong va cu tue
+
+        //thinh dep zai comment
     }
 }
