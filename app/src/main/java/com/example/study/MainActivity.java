@@ -31,5 +31,7 @@ public class MainActivity extends AppCompatActivity {
         //them moi cho cu hong va cu tue
 
         //thinh dep zai comment
+
+        //Tue comment
     }
 }
