@@ -26,6 +26,6 @@ public class MainActivity extends AppCompatActivity {
         mTabLayout.setupWithViewPager(mViewPager);
 
 
-        /// thinh mơi sưa cái này
+        /// thinh mơi sưa cái này day la master
     }
 }
