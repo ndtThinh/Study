@@ -26,6 +26,10 @@ public class MainActivity extends AppCompatActivity {
         mTabLayout.setupWithViewPager(mViewPager);
 
 
+<<<<<<<<< Temporary merge branch 1
         /// thinh mơi sưa cái này
+=========
+        //brother commit
+>>>>>>>>> Temporary merge branch 2
     }
 }
