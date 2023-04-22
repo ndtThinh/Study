@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
         //thinh dep zai comment
 
-        //Tue comment
+        //Tue commentgit check
 
         // Hồng đẹp zai
 
